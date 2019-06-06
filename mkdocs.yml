@@ -1,0 +1,5 @@
+site_name: LeetCode For Python
+theme: readthedocs
+nav:
+- 主页: 'index.md'
+- 1.两数之和: '1-99/1.两数之和.md'
