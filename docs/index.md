@@ -1,7 +1,6 @@
 # LeetCode for Python
-LeetCode中文站的题目， 解题方案均采用Python3.
-
-
-
-# 作者
-HLearning
+<p align='center'>
+<a href='https://github.com/HLearning/'><img src='https://img.shields.io/badge/github-HLearning-blue.svg'></a>
+<a href='https://leetcode-cn.com/u/hlearning'><img src='https://img.shields.io/badge/leetcode-HLearning-yellow.svg'></a>
+<a href='https://leetcode4py.readthedocs.io/'><img src='https://img.shields.io/badge/readthedocs-leetcode4py-orange.svg'></a>
+</p>
